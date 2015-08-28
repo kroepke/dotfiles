@@ -1,3 +1,5 @@
+alias fastmvninstall='mvn clean compile install -DskipTests -Dmaven.javadoc.skip=true'
+
 #  Customize BASH PS1 prompt to show current GIT repository and branch.
 #  by Mike Stewart - http://MediaDoneRight.com
 
